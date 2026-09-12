@@ -44,8 +44,8 @@
 | :---: | :---: | :---: | :---: |
 
 ### 🛠 협업 도구
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/><br>GitHub | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="50" height="50"/><br>Swagger | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="50" height="50"/><br>Notion |
-| :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/><br>Git | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/><br>GitHub | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="50" height="50"/><br>Swagger | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="50" height="50"/><br>Notion |
+| :---: | :---: | :---: | :---: |
 
 ## 📌 핵심 기능
 
