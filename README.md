@@ -32,20 +32,30 @@
 
 ## ⚙ 기술 스택
 ### ✏️ 프론트엔드
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/><br>JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/><br>React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50"/><br>Next.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/><br>Tailwind CSS |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/><br>TypeScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/><br>React | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50"/><br>Next.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/><br>Tailwind CSS |
 | :---: | :---: | :---: | :---: |
+* **Language:** TypeScript
+* **Framework:** Next.js 16.x, React 19.x
+* **Styling:** Tailwind CSS 4.x
 
 ### 🛠 백엔드
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/><br>Java | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50"/><br>Spring Boot |
 | :---: | :---: |
+* **Language:** Java 25
+* **Framework:** Spring Boot 4.1.1
 
 ### 📦 인프라 & 데이터베이스
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/><br>PostgreSQL | <img src="https://h2database.com/html/images/h2-logo-2.png" width="50" height="50"/><br>H2 Database | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="50" height="50"/><br>Supabase | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="50" height="50"/><br>Vercel |
 | :---: | :---: | :---: | :---: |
+* **Database:** PostgreSQL (Supabase), H2 Database (Local)
+* **BaaS / Storage:** Supabase
+* **Deployment:** Vercel
 
 ### 🛠 협업 도구
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/><br>Git | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/><br>GitHub | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="50" height="50"/><br>Swagger | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="50" height="50"/><br>Notion |
 | :---: | :---: | :---: | :---: |
+* **VCS / Tools:** Git, GitHub, Notion
+* **API Docs:** Swagger (SpringDoc OpenAPI)
 
 ## 📌 핵심 기능
 
