@@ -76,7 +76,7 @@
 * **멤버 간 현황 공유:** 방 전용 게시판에서 다른 멤버들의 당일 인증 사진을 확인하며, 서로의 작심삼일을 방지하고 꾸준한 실천을 독려할 수 있습니다.
 
 ## 🗄 데이터베이스 구조 (ERD)
-<img width="1137" height="444" alt="스크린샷 2026-09-12 오후 6 39 09" src="https://github.com/user-attachments/assets/3249221b-d49f-4eee-bbcb-6a4c46e8ecd6" />
+<img width="1416" height="485" alt="ERD최종" src="https://github.com/user-attachments/assets/d261a7b2-5967-4097-90f3-9f33c28feeae" />
 
 
 ## 🚀 시작하기 (Getting Started)
